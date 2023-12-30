@@ -1,4 +1,4 @@
-# LinkedBot": AI-Powered LinkedIn Posts Generator for Developers
+# LinkedBot: AI-Powered LinkedIn Posts Generator for Developers
 
 ## Overview
 LinkedBot is an innovative tool designed to streamline the process of creating engaging LinkedIn posts for Developers.
